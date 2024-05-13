@@ -6,3 +6,5 @@ El programa se trata de la creación y manipulación de datos sobre deportistas 
 Hay una lista de los jugadores/players actuales con sus puntos/points ganados en competencias/tournaments en las que han participado, tales puntos les dan una posición en el ranking.
 Hay otra lista donde se encuentran las competencias/torneos/tournaments.
 Se pueden agregar más jugadores y competencias, o se pueden editar los que ya están, si así se desea.
+
+Link a video en google drive: https://drive.google.com/file/d/1PSjY08AB3WyorttXpiRC_DxCmbfPTNaI/view?usp=sharing
