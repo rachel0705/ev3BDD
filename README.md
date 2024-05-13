@@ -5,6 +5,6 @@ Link a rúbrica en excel: https://1drv.ms/x/s!AjsD3qClvMxsjEt-d2QIdZtOpm6t?e=D1H
 El programa se trata de la creación y manipulación de datos sobre deportistas de Tenis de mesa.
 Hay una lista de los jugadores/players actuales con sus puntos/points ganados en competencias/tournaments en las que han participado, tales puntos les dan una posición en el ranking.
 Hay otra lista donde se encuentran las competencias/torneos/tournaments.
-Se pueden agregar más jugadores y competencias, o se pueden editar los que ya están, si así se desea.
+Se pueden agregar más jugadores y competencias, o se pueden editar o eliminar los que ya están, si así se desea.
 
 Link a video en google drive: https://drive.google.com/file/d/1PSjY08AB3WyorttXpiRC_DxCmbfPTNaI/view?usp=sharing
